@@ -51,7 +51,7 @@
 
 #login-form{                            /*id를 불러와 설정*/
     position: absolute;
-    top: 55%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 2;
@@ -63,7 +63,7 @@
 
 #greeting{
     position: absolute;
-    top: 55%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 2;
@@ -75,7 +75,7 @@
 
 #todo-form{
     position: absolute;
-    top: 65%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 2;
