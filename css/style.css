@@ -4,7 +4,7 @@
 
 .clock-font{                        /*class를 추가하여 설정*/
     position: absolute;             /*속성: absolute(새로운 레이러 추가된것 처럼 독립된 배치 문맥)*/
-    top: 25%;                       /*위쪽에서의 거리*/
+    top: 20%;                       /*위쪽에서의 거리*/
     left: 50%;                      /*왼쪽에서의 거리*/
     font-family: fantasy;           /*폰트*/
     transform: translate(-50%,-50%);/* X 축과 Y 축을 따라 지정된 거리만큼 요소를 이동: 중앙 배치*/
@@ -63,7 +63,7 @@
 
 #greeting{
     position: absolute;
-    top: 65%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 2;
